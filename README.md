@@ -1,7 +1,9 @@
 # Difference-Arrays-ArrayLists
 Differences between Arrays and ArrayLists.
 In Java, arrays are used to store multiple items of the same type in one place. They have a fixed size, meaning you decide how many items they can hold when you create them. However, once the number of items is set, such cannot be changed. Arrays allow you to access items directly using their position (index).
+
 ArrayLists, on the other hand, are more flexible. They can grow or shrink as you add or remove items, so their size does not need to be known beforehand. They also come with built-in features, like methods to easily add, remove, or search for items. Unlike arrays, which can store primitive types (like int), ArrayLists can only hold objects, though Java can convert primitives into objects automatically.
+
 The main difference between arrays and ArrayList is that arrays are simple, fixed in size, and better for performance, while ArrayLists are easier to use and more flexible, making them great when the number of items can change.
 
  // This program demonstrates the main differences between Arrays and ArrayLists.
